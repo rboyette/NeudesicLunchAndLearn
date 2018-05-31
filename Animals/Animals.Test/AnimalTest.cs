@@ -50,5 +50,43 @@ namespace Animals.Test
 
             Assert.AreEqual(expected, actual);
         }
+
+
+        //try to fill these out! 
+        [Test]
+        public void TestDogGreeting()
+        {
+
+        }
+
+        [Test]
+        public void TestDogHasFourLegs()
+        {
+
+        }
+
+        [Test]
+        public void TestDogWhoAmI()
+        {
+
+        }
+
+        [Test]
+        public void TestHumanGreeting()
+        {
+
+        }
+
+        [Test]
+        public void TestHumanHasFourLegs()
+        {
+
+        }
+
+        [Test]
+        public void TestHumanWhoAmI()
+        {
+
+        }
     }
 }
