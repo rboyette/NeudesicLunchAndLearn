@@ -21,7 +21,7 @@ namespace Animals
 
         public string WhoAmI()
         {
-            return "You do not own me, I own you, meow";
+            return "I am a cat";
         }
     }
 }
